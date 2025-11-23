@@ -1,0 +1,5 @@
+{
+  "name": "SonicMind AI Composer II",
+  "description": "A generative music workstation powered by Gemini. Describe a mood, genre, or scene, and watch the AI compose and perform a track in real-time using browser-based synthesis.",
+  "requestFramePermissions": []
+}
